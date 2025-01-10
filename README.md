@@ -6,10 +6,10 @@
   - [ClassFindr Software Engineering Project](https://github.com/lb0507/ClassFindr)
     
 - <b>Data Structures and Algorithms Practice </b>
-  - [Praciting DSA in Python](https://github.com/lb0507/DSA-Practice)
+  - [Practicing DSA](https://github.com/lb0507/DSA-Practice)
 
 - <b>LeetCode Practice </b>
-  - [Praciting LeetCode Questions](https://github.com/lb0507/LeetCode-Practice)
+  - [Practicing LeetCode Questions](https://github.com/lb0507/LeetCode-Practice)
 
 
 <h2> 🤳 View my LinkedIn:</h2>
