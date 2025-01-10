@@ -1,4 +1,22 @@
-## Hi there 👋
+<h1>Hi, I'm Lexie! <br/> <a href="https://www.linkedin.com/in/kaley-bardwell-4640ab30b//">Computer Science Senior Student at Sam Houston State University</a>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>ClassFindr Web App</b>
+  - [ClassFindr Software Engineering Project](https://github.com/lb0507/ClassFindr)
+    
+- <b>Data Structures and Algorithms Practice </b>
+  - [Praciting DSA in Python](https://github.com/lb0507/DSA-Practice)
+
+- <b>LeetCode Practice </b>
+  - [Praciting LeetCode Questions](https://github.com/lb0507/LeetCode-Practice)
+
+
+<h2> 🤳 View my LinkedIn:</h2>
+
+[<img align="left" alt="KaleyBardwell | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/kaley-bardwell-4640ab30b/
 
 <!--
 **lb0507/lb0507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
