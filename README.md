@@ -5,8 +5,8 @@
 - <b>ClassFindr Web App</b>
   - [ClassFindr Software Engineering Project](https://github.com/lb0507/ClassFindr)
     
-- <b>Data Structures and Algorithms Practice </b>
-  - [Practicing DSA](https://github.com/lb0507/DSA-Practice)
+- <b>Programming Practice </b>
+  - [Writing Code](https://github.com/lb0507/DSA-Practice)
 
 
 
