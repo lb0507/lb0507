@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>Web App Solo Project</b>
+  - [Client-Server Application for Release Notes](https://github.com/lb0507/TechnicalChallenge)
+   
 - <b>ClassFindr Web App</b>
   - [ClassFindr Software Engineering Project](https://github.com/lb0507/ClassFindr)
     
